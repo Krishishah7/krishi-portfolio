@@ -74,7 +74,7 @@ function HeroSection() {
 
           <div className="flex flex-wrap gap-4">
             <a
-              href="/resume.pdf"
+              href="/Krishi_Shah_Resume.pdf"
               download
               className="inline-flex items-center gap-2 rounded-2xl bg-gradient-to-r from-blue-600 to-cyan-500 px-6 py-3 text-sm font-semibold text-white shadow-lg shadow-blue-600/20 transition hover:from-blue-700 hover:to-cyan-600"
             >
